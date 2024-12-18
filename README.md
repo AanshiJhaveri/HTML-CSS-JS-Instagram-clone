@@ -29,5 +29,5 @@ A front-end clone of Instagram's user interface designed to replicate the layout
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/Instagram-Clone.git
+   git clone https://github.com/aanshijhaveri/Instagram-Clone.git
 
